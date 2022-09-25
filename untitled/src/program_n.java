@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-public class main {
+public class program_n {
     public static void function1(double num, int SS )
     {
         double fractionalPart =0,number;
