@@ -29,7 +29,7 @@ public class TestShop {
 					System.out.println("Введите имя пользователя компьютера");
 					n = x.searchPC(pc = scan.next());
 					n++;
-					System.out.println("Это кмпьютер под номером" + n + 1);
+					System.out.println("Это кмпьютер под номером" + (n + 1));
 					break;
 				case 3:
 					System.out.println("Введите имя пользователя, чей компьбтер хотите удалить");
