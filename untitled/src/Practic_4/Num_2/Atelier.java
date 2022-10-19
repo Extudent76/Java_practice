@@ -17,6 +17,5 @@ public class Atelier implements MenClothing,WomenClothing{
 				System.out.println(clothe);
 			}
 		}
-
 	}
 }
