@@ -1,0 +1,7 @@
+package practic_31.Model.Menu;
+
+public interface Alcoholable {
+	boolean isAlcoholicDrink();
+
+	double getAlcoholVol();
+}
